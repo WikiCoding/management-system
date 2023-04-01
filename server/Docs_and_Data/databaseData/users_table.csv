@@ -1,0 +1,7 @@
+[{"id":9, "username":"go3d", "position":"manager", "email":"go3dproject@outlook.com", "password":"$2a$08$Leb355TkAV6MaYjVC9KKeOl.tXK7FuB2k/FdOh.21RTi.XrmJM296", "manager_email":""},
+ {"id":11, "username":"Tiago Castro", "position":"technician", "email":"tiagomscastro@gmail.com", "password":"$2a$08$IZYH6lk0zuoJge.EaGI3WOYsfVpTj20.KHTQU08R3j/b7.zxvpqhG", "manager_email":"go3dproject@outlook.com"},
+ {"id":12, "username":"Manuel Sousa", "position":"technician", "email":"ms@ms.com", "password":"$2a$08$HDPxNdDzKXkWRTBUXkgkmunMUqihfb7QN/ABPB3MdmZgXBpUe1ovS", "manager_email":"go3dproject@outlook.com"},
+ {"id":13, "username":"Beatriz Santos", "position":"technician", "email":"bs@bs.com", "password":"$2a$08$PpeDG4ed9BYaU8vxtzF.Lups/6Bpir40uf8TcIHAQ.u3SHtvO45pC", "manager_email":"go3dproject@outlook.com"},
+ {"id":14, "username":"Tech Lead", "position":"manager", "email":"tl@tl.com", "password":"$2a$08$4a0EUydV7tkz7mL2BrpqCOUMvX/McNn.4Iv3M/NlIoLWoZdYPk6bi", "manager_email":""},
+ {"id":15, "username":"Pedro F.", "position":"technician", "email":"pf@pf.com", "password":"$2a$08$tSQSS/Ezyc2I.iP2RJlkDuM2EJ0eBzv/KedO6eVHamUryBVsUXes6", "manager_email":"tl@tl.com"},
+ {"id":16, "username":"Elsa Costa", "position":"technician", "email":"ec@ec.com", "password":"$2a$08$eUTUhEcWgOkqzBXrO4S3q.zuLWJ.6YCbHxjZ7WsDmXToOMZJtVqr.", "manager_email":"tl@tl.com"}]
